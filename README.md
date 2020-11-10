@@ -3,4 +3,4 @@ I have made an prediction app using flask and used Regression Model to predict t
 
 Access the Server App using this Link:
 
-ec2-3-19-246-168.us-east-2.compute.amazonaws.com@8080
+ec2-3-19-246-168.us-east-2.compute.amazonaws.com:8080
